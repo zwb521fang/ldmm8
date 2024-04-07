@@ -1,5 +1,5 @@
 {
-    "name": "ldmm9",
+    "name": "ldmm8",
     "version": "1.0.0",
     "description": "common toolkit",
     "main": "index.js",
@@ -8,8 +8,8 @@
     },
     "repository": {
       "type": "git",
-    "name": "ldmm9",
-    "url": "git+https://github.com/zwb521fang/ldmm9.git"
+    "name": "ldmm8",
+    "url": "git+https://github.com/zwb521fang/ldmm8.git"
     },
     "keywords": [
       "[\"utils\"",
@@ -20,9 +20,9 @@
     "author": "zwb21fang",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/zwb521fang/ldmm9/issues"
+      "url": "https://github.com/zwb521fang/ldmm8/issues"
     },
-    "homepage": "https://github.com/zwb521fang/ldmm9#readme",
+    "homepage": "https://github.com/zwb521fang/ldmm8#readme",
     
     "dependencies": {
         "ldmm7": "^1.0.0",
