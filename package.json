@@ -25,7 +25,6 @@
     "homepage": "https://github.com/zwb521fang/ldmm9#readme",
     
     "dependencies": {
-        "ldmm8": "^1.0.0",
         "ldmm7": "^1.0.0",
         "ldmm6": "^1.0.0",
         "ldmm5": "^1.0.0",
